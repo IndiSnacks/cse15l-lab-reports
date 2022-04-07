@@ -4,9 +4,9 @@ Hello World!
 
 **Hello Bold**
 
-#Hello Heading 1
+# Hello Heading 1
 
-##Hello Heading 2
+## Hello Heading 2
 
 [Link](https://github.com/IndiSnacks/cse15l-lab-reports/edit/main/index.md) Hello Link
 
