@@ -43,6 +43,6 @@ For this section I generated a SSH Key using the ```key-gen``` command and used 
 ***
 
 ## Optimizing Remote Running
-![Image](remoterunning.png)
+![Image](opt.png)
 
-In this section I began getting more conforable with ssh and began using more short cuts. For example, in the screenshot above you can see me using a semi-colon to run two commands on a single line so that I can open a new diroctory and see all of its files. 
+In this section I began getting more conforable with ssh and began using more short cuts. For example, in the screenshot above you can see me using a ```;``` to run two commands on a single line. In the screen shot I used this ablility to both compile and run my code remoatly on one line.
