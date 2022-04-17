@@ -30,8 +30,6 @@ Now you are ready to connect to the ```ieng 6``` server.
 
 Next all users will have to find the course-spefic account using the [UCSD Accound Lookup Tool](https://sdacs.ucsd.edu/~icc/index.php). You may need to reset your password which will take about 15 minutes to prosses to just chill for a little which that is happening. 
 
-<br>
-
 Now we can connect to the **remote server!**
 
 1. **First** open the VSCode terminal by going to the top left of the windown clicking the terminal tab and seclecting the ***new terminal*** option.
