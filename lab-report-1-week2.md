@@ -28,7 +28,7 @@ Now you are ready to connect to the ```ieng 6``` server.
 
 * **First** if your on a **Windows Mechine** you may need to install the [OpenSSH program](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) follow to instrections in the following link to complete that prosses.
 
-Next all users will have to find the course-spefic account using the [UCSD Accound Lookpu Tool](https://sdacs.ucsd.edu/~icc/index.php). You may need to reset your password which will take about 15 minutes to prosses to just chill for a little which that is happening. 
+Next all users will have to find the course-spefic account using the [UCSD Accound Lookup Tool](https://sdacs.ucsd.edu/~icc/index.php). You may need to reset your password which will take about 15 minutes to prosses to just chill for a little which that is happening. 
 
 <br>
 
