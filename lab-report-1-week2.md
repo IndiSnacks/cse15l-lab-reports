@@ -17,7 +17,7 @@ VScode is a texted editore which can used to access the ```ieng 6``` server form
 
 **First** click the link above and follow the install prompts to install VScode onto you mechine. 
 
-![Image](VSCode.png)
+![Image](ImagesReport1\VSCode.png)
 
 After installing you should be greeted with this home screen!
 
@@ -38,13 +38,13 @@ Now we can connect to the **remote server!**
 
 3. Enter your passwords and you should be greeted with the following screen
 
-![Image](ReomtelyConnecting.png) 
+![Image](ImagesReport1/ReomtelyConnecting.png) 
 
 If you see this in your terminal then that means that your are offically on the server!!
 
 <br>
 
-# Trying Some Command
+# Trying Some Commands
 
 Once you are in the server you can use commands to navigate through the files and even create you own files to code!
 
@@ -57,7 +57,7 @@ Here is a small list of commands to try:
 
 Here's an examples of a few commands being used!
 
-![Image](tryCMD.png)
+![Image](ImagesReport1/tryCMD.png)
 
 <br>
 
@@ -71,7 +71,7 @@ After call this command you'll be propted to input your passwords after that you
 
 In the following image I used the ```scp``` command to copy over the file WhereAmI.java and run it in the server. 
 
-![Image](MoveingFIles.png)
+![Image](ImagesReport1/MoveingFIles.png)
 
 <br>
 
@@ -80,7 +80,7 @@ By now you are probbly sick of having to type in your password evertime you need
 
 1. **First** use the ```ssh-keygen``` to generate a key on your local mechine. You should be prompted with the screen below if this was done right. 
 
-![Image](key.png)
+![Image](ImagesReport1/key.png)
 
 2. This command will set up a **private** and a **public** key. You want use the ```ssh scp``` command to move the ```id_rsa.pub``` file on to the server. **ENSURE** that you are moving over the public key by ensure the the files ends with ```.pub``` or this woun't work!
 
@@ -89,6 +89,6 @@ If done right you should be able to access your server without need to enter a p
 <br>
 
 # Optimizing Remote Running
-![Image](opt.png)
+![Image](ImagesReport1/opt.png)
 
 In this section you can more conforable with ssh and began using more short cuts. For example, in the screenshot above you can see me using a ```;``` to run two commands on a single line. In the screen shot I used the command to **both compile and run my code remoatly on one line!** Also I used the tab key to autofill commands when available. 
