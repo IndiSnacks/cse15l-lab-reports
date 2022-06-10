@@ -12,3 +12,9 @@
 <br>
 
 [Lab Week 8 - Report 4](lab-report-4-week8.md)
+
+<br>
+
+[Lab Week 10 - Report 5](lab-report-5-week10.md)
+
+the end
